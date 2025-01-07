@@ -1,6 +1,6 @@
 # Yaitech TEST
 
-![Gif](./demo.gif)
+Demonstração: ![Gif](./demo.gif)
 
 Este é um projeto desenvolvido com **Next.js** e **NestJS**, que utiliza recursos de inteligência artificial.
 

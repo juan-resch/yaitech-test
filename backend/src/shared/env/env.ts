@@ -10,7 +10,6 @@ export const envSchema = z.object({
   DATABASE_PASSWORD: z.string(),
   DATABASE_HOST: z.string(),
   DATABASE_PORT: z.string().transform((value) => parseInt(value)),
-  RESEND_API_KEY: z.string(),
   JWT_SECRET: z.string(),
   OPENAI_API_KEY: z.string(),
 })

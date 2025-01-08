@@ -2,7 +2,7 @@
 
 Demonstração: ![Gif](./demo.gif)
 
-Este é um projeto desenvolvido com **Next.js** e **NestJS**, que utiliza recursos de inteligência artificial.
+Este projeto foi desenvolvido com **Next.js** e **NestJS**. Trata-se de uma biblioteca digital que utiliza recursos de inteligência artificial para obter o contexto dos livros e criar um chat, permitindo que o usuário faça perguntas sobre o conteúdo de cada livro.
 
 ## Configuração Inicial
 
